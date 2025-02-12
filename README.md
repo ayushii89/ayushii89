@@ -25,7 +25,6 @@
 
 ## 🎯 Fun Facts   
 🌙 My **brain works best at 2 AM** (but my code doesn’t agree) 🌚  
-🎨 Figma is my **happy place**, and GitHub is my **real-life undo button** 🔄  
 🏆 Still waiting for **GFG** **StackOverflow** **STRIVER** to sponsor me for my countless visits 🤣  
 
 ---
