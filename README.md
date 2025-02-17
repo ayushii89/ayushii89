@@ -29,10 +29,7 @@
 
 ---
 
-
 ## 📫 Let's Connect & Code Together!  
-🌎 [![LinkedIn](https://www.linkedin.com/in/ayushee-yadav-533261273/)  
-🐙 [![Behance](https://www.behance.net/ayusheeyadav)  
 
 ---
 
