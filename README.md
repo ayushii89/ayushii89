@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Ayushee Yadav! 🚀  
 
 💻 **2nd-year CSE-AI Student @ IGDTUW** | 🛠 **Full-Stack Dev in Training** | 🎨 **UI/UX Enthusiast**  
-🌱 **Exploring Open Source** | 🧠 **DSA Adventurer** | 🔥 **Lover of All Things Tech**  
+🌱 **Exploring Open Source** | 🧠 **DSA Adventurer** | 🔥 **Lover of Tech**  
 
 ---
 
