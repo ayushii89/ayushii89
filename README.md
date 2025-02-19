@@ -34,7 +34,7 @@
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ayushii89&theme=onedark)
 ### 🔥 Streak Stats
-![GitHub Streak](https://img.shields.io/badge/dynamic/json?color=red&label=Streak&query=currentStreakLength&url=https://streak-stats.demolab.com/?user=ayushii89)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=ayushii89&theme=radical)
 
 ---
 ### 📫 Connect with Me:
