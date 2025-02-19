@@ -31,7 +31,15 @@
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushii89&show_icons=true&theme=radical)
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=ayushii89&theme=onedark)
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushii89&theme=radical)
 
 ---
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushee-yadav/) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ayushii89) 
 
+---
 💡 **Motto:** `"Code, Debug, Commit, Repeat!"` 🔄🚀  
