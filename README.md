@@ -33,8 +33,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushii89&show_icons=true&theme=radical)
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ayushii89&theme=onedark)
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=ayushii89&theme=radical)
 
 ---
 ### 📫 Connect with Me:
